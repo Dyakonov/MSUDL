@@ -13,4 +13,5 @@
 ### слайды лекций
 
 * [Сведения по курсу](DL_intro.pdf)
-* [Введение в нейросети](MSUDL_lec1.pdf )
+* [Введение в нейросети](MSUDL_lec1.pdf)
+* [Pytorch](MSUDL_lec2_pytorch_02.pdf)
