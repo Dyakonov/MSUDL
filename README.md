@@ -15,3 +15,4 @@
 * [Сведения по курсу](DL_intro.pdf)
 * [Введение в нейросети](MSUDL_lec1.pdf)
 * [Pytorch](MSUDL_lec2_pytorch_02.pdf)
+* [Обучение нейросетей](MSUDL_lec3_learning.pdf)
