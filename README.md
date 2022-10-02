@@ -17,3 +17,4 @@
 * [Pytorch](MSUDL_lec2_pytorch_02.pdf)
 * [Обучение нейросетей](MSUDL_lec3_learning.pdf)
 * [Свёрточные сети](MSUDL_lec4_cnn.pdf)
+* [Детектирование объектов на изображениях](MSUDL_lec5_objdetect.pdf)
