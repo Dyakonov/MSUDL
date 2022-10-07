@@ -18,3 +18,4 @@
 * [Обучение нейросетей](MSUDL_lec3_learning.pdf)
 * [Свёрточные сети](MSUDL_lec4_cnn.pdf)
 * [Детектирование объектов на изображениях](MSUDL_lec5_objdetect.pdf)
+* [Сегментация изображений](MSUDL_lec6_segmentation.pdf)
