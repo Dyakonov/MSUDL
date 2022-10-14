@@ -19,3 +19,4 @@
 * [Свёрточные сети](MSUDL_lec4_cnn.pdf)
 * [Детектирование объектов на изображениях](MSUDL_lec5_objdetect.pdf)
 * [Сегментация изображений](MSUDL_lec6_segmentation.pdf)
+* [Рекуррентные нейросети](MSUDL_lec7_rnn.pdf)
