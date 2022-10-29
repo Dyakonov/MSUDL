@@ -21,3 +21,4 @@
 * [Сегментация изображений](MSUDL_lec6_segmentation.pdf)
 * [Рекуррентные нейросети](MSUDL_lec7_rnn.pdf)
 * [Анализ текста](MSUDL_lec8_texts.pdf)
+* [Трансформеры](MSUDL_lec9_transformers.pdf)
