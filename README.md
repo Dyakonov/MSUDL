@@ -22,3 +22,4 @@
 * [Рекуррентные нейросети](MSUDL_lec7_rnn.pdf)
 * [Анализ текста](MSUDL_lec8_texts.pdf)
 * [Трансформеры](MSUDL_lec9_transformers.pdf)
+* [Языковые модели](MSUDL_lec10_LM.pdf)
