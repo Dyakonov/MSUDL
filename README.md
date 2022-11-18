@@ -24,3 +24,4 @@
 * [Трансформеры](MSUDL_lec9_transformers.pdf)
 * [Языковые модели](MSUDL_lec10_LM.pdf)
 * [Распознавание речи](MSUDL_lec11_ASR.pdf)
+* [Генеративные состязательные сети](MSUDL_lec12_GAN.pdf)
